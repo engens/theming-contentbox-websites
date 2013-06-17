@@ -1,4 +1,4 @@
 theming-contentbox-websites
 ===========================
 
-Theming ContentBox Websites
+Impress JS preso on Theming ContentBox Websites
